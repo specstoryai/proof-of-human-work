@@ -1,0 +1,50 @@
+Cartoon meme
+- impact on teammates 
+![cartoon](cartoon.png)
+
+Ny times article
+- impact on thinking
+
+My AI, but not your AI
+- Asymmetric effort. Writing with AI is low cost. Reading costs are pretty much unchanged
+
+Slop and worse
+- no intent, low intent, bad intent
+	- engineered attention, synthetic influence
+- impact on the web
+- impact on human connection
+- https://www.theguardian.com/global/commentisfree/2025/jan/08/ai-generated-slop-slowly-killing-internet-nobody-trying-to-stop-it covers slop and scam
+- Spam and scam
+
+Why do we read what other people write?
+- To learn something
+- To understand someone else's point of view
+- To prepare for a discussion / debate
+- To feel comforted
+- To be entertained
+- To be surprised
+
+Attention is the scarce resource
+- Was already the case with feed scrolling a world full of human generated content
+- Now, it's even thinner
+
+Why coding and writing are different
+- additional places to exert intent because the medium isn’t the code
+
+Proof of human work
+
+Close-knit human communities
+
+Homogenization
+- Often a bad thing
+- Sometimes good - when we're trying to get aligned and work from one shared source of truth
+
+Some of the things that we do
+- indicate amount of human input
+- Sharing ai trace
+
+When it's good to use AI for writing or reading
+- the ideas have already been expressed in an open and novel way (e.g. an open-ended brainstorming meeting transcript)
+- processing feedback (e.g. digesting a user research session)
+
+
